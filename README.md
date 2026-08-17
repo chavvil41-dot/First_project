@@ -1,17 +1,17 @@
-## FIRST -C- PROJECT
+## FIRST - - PROJECT
 
 This is the first repository created by me in which I will be practicing c programming.
 ## PROGRAMME
 
-1. C, C++, JAVA, PYTHON
+1. C
+
+2. C++
+
+3.  JAVA
+
+4.   PYTHON
    
-2. DATA STRUCTURE AND ALGORITHMS
-   
-3. FLOWCHARTS
-   
-4. NETWORKING AND CYBERSECURITY BASICS
-   
-5. DEBUGGING
+
 
  ## WHAT I AM LEARNING
  
@@ -19,9 +19,17 @@ This is the first repository created by me in which I will be practicing c progr
     
  2. Data base management system {SQL, dbms design}
     
-    Computer networks
+ 3. Computer networks
     
  4. Web development
+
+ 5. DATA STRUCTURE AND ALGORITHMS
+   
+ 6. FLOWCHARTS
+   
+ 7. NETWORKING AND CYBERSECURITY BASICS
+   
+ 8. DEBUGGING
     
 
 ## PURPOSE
