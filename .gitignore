@@ -1,0 +1,10 @@
+# Ignore compiled files and editor settings
+*.o
+*.exe
+*.class
+/build/
+/bin/
+# Editor files
+.vscode/
+.idea/
+*.swp
