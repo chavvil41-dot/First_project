@@ -13,9 +13,13 @@ this is the first repository created by me in which i will be practicing c progr
 
  ## What i am practicing
  1. operating systems
+    
  2. data base management system {sql, dbms design}
+    
  3. computer networks
+    
  4. web development
+    
 
 ## PURPOSE
 This repository documents my progress as I learn C programming and practice turning programming concepts into working programs.
