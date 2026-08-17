@@ -6,6 +6,7 @@ this is the first repository created by me in which i will be practicing c progr
 3. FLOWCHARTS
 4. NETWORKING AND CYBERSECURITY BASICS
 5. DEBUGGING
-   ##PURPOSE
+
+    ##PURPOSE
    This repository documents my progress as I learn C programming and practice turning programming concepts into working programs.
 The programs here are primarily learning exercises rather than production-level software.
