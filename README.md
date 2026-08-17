@@ -1,6 +1,6 @@
 ## First-C-project
 this is the first repository created by me in which i will be practicing c progrmming.
-## PROGGRAME
+## PROGRAMME
 1. C,C++,JAVA,PYTHON
    
 2. DATA STRUCTURE AND ALGORITHMS
