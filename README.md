@@ -1,7 +1,9 @@
-## First-C-project
-this is the first repository created by me in which i will be practicing c progrmming.
+## FIRST -C- PROJECT
+
+This is the first repository created by me in which I will be practicing c programming.
 ## PROGRAMME
-1. C,C++,JAVA,PYTHON
+
+1. C, C++, JAVA, PYTHON
    
 2. DATA STRUCTURE AND ALGORITHMS
    
@@ -11,18 +13,20 @@ this is the first repository created by me in which i will be practicing c progr
    
 5. DEBUGGING
 
- ## What i am practicing
- 1. operating systems
+ ## WHAT I AM LEARNING
+ 
+ 1. Operating systems
     
- 2. data base management system {sql, dbms design}
+ 2. Data base management system {SQL, dbms design}
     
- 3. computer networks
+    Computer networks
     
- 4. web development
+ 4. Web development
     
 
 ## PURPOSE
 This repository documents my progress as I learn C programming and practice turning programming concepts into working programs.
 The programs here are primarily learning exercises rather than production-level software.
-## about me
-i am a 1st year CS undergrad at AMU. learning programming and full stack coding.
+
+## ABOUT ME
+I am a 1st year CS undergrad at AMU. learning programming and full stack coding.
