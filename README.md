@@ -1,4 +1,4 @@
-# First_project
+# first repository
 
 Repository of practice programs and notes.
 
